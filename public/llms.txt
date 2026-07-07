@@ -32,7 +32,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: +972522188155
+- Phone (tel): tel:+972522188155
 
 ### Contact form
 - URL: https://example.com

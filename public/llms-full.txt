@@ -757,7 +757,7 @@ Y.L Business Booster
 
 - [business_email]
 
-- [business_phone]
+- +972522188155
 
 - [business_address]
 
@@ -973,7 +973,7 @@ Y.L Business Booster ("החברה", "אנו", "שלנו") מחויבת להגן 
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: +972522188155
 
 - כתובת: [business_address]
 
@@ -1028,7 +1028,7 @@ Y.L Business Booster ("החברה", "אנו", "שלנו") מחויבת להגן 
 
 - [business_email]
 
-- [business_phone]
+- +972522188155
 
 - [business_address]
 
@@ -1252,7 +1252,7 @@ Y.L Business Booster מחויבת להנגיש את השירותים לכלל ה
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: +972522188155
 
 
 
@@ -1308,7 +1308,7 @@ Y.L Business Booster מחויבת להנגיש את השירותים לכלל ה
 
 - [business_email]
 
-- [business_phone]
+- +972522188155
 
 - [business_address]
 
@@ -1555,7 +1555,7 @@ Y.L Business Booster מספקת Web Design & Development דרך האתר. השי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: +972522188155
 
 - כתובת: [business_address]
 
@@ -1607,7 +1607,7 @@ Y.L Business Booster מספקת Web Design & Development דרך האתר. השי
 
 - [business_email]
 
-- [business_phone]
+- +972522188155
 
 - [business_address]
 
@@ -1819,7 +1819,7 @@ Description: Y.L Business Booster - תודה - Y.L Business Booster
 
 - [business_email]
 
-- [business_phone]
+- +972522188155
 
 - [business_address]
 
