@@ -2,13 +2,13 @@
 
 Y.L Business Booster is a web design and landing page creation business focused on helping other businesses grow their online presence. The brand name suggests a mission-driven identity centered around boosting and accelerating business success. The company positions itself as a professional digital partner that builds high-converting websites and landing pages for clients.
 
-Source: https://y-l-business-booster-297a479d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## בנה נוכחות דיגיטלית מנצחת — Y.L Business Booster
 
-URL: https://y-l-business-booster-297a479d.zappy5.app
+URL: https://example.com
 Description: Y.L Business Booster מתמחה בעיצוב ופיתוח אתרים ודפי נחיתה שמביאים תוצאות אמיתיות. הפוך את הרעיון שלך לעסק משגשג עם פתרונות Web Design &amp; Development מותאמים אישית. דברו איתנו עוד היום!
 
 בנה נוכחות דיגיטלית מנצחת — Y.L Business Booster
@@ -841,7 +841,7 @@ Y.L Business Booster
 
 ## מדיניות פרטיות
 
-URL: https://y-l-business-booster-297a479d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1112,7 +1112,7 @@ Y.L Business Booster ("החברה", "אנו", "שלנו") מחויבת להגן 
 
 ## הצהרת נגישות
 
-URL: https://y-l-business-booster-297a479d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1392,7 +1392,7 @@ Y.L Business Booster מחויבת להנגיש את השירותים לכלל ה
 
 ## תנאי שימוש
 
-URL: https://y-l-business-booster-297a479d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1691,7 +1691,7 @@ Y.L Business Booster מספקת Web Design & Development דרך האתר. השי
 
 ## תודה - Y.L Business Booster
 
-URL: https://y-l-business-booster-297a479d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Y.L Business Booster - תודה - Y.L Business Booster
 
 תודה - Y.L Business Booster
