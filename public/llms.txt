@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://y-l-business-booster.zappy5.app
 Y.L Business Booster מתמחה בעיצוב ופיתוח אתרים ודפי נחיתה שמביאים תוצאות אמיתיות. הפוך את הרעיון שלך לעסק משגשג עם פתרונות Web Design &amp; Development מותאמים אישית. דברו איתנו עוד היום!
 
 ### תודה - Y.L Business Booster
-https://example.com/thank-you
+https://y-l-business-booster.zappy5.app/thank-you
 Y.L Business Booster - תודה - Y.L Business Booster
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://y-l-business-booster.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://y-l-business-booster.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://y-l-business-booster.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -36,8 +36,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:+972522188155
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://y-l-business-booster.zappy5.app
+- Endpoint: https://y-l-business-booster.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -66,6 +66,6 @@ Web Design & Development
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://y-l-business-booster.zappy5.app/sitemap.xml
+- Robots: https://y-l-business-booster.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://y-l-business-booster.zappy5.app/llms-full.txt
