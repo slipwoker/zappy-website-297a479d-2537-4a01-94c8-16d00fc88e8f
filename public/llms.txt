@@ -1,0 +1,70 @@
+# Y.L Business Booster — Generative Engine Optimization Map
+
+> Y.L Business Booster is a web design and landing page creation business focused on helping other businesses grow their online presence. The brand name suggests a mission-driven identity centered around boosting and accelerating business success. The company positions itself as a professional digital partner that builds high-converting websites and landing pages for clients.
+
+---
+
+## Pages
+
+### בית
+https://y-l-business-booster-297a479d.zappy5.app
+Y.L Business Booster מתמחה בעיצוב ופיתוח אתרים ודפי נחיתה שמביאים תוצאות אמיתיות. הפוך את הרעיון שלך לעסק משגשג עם פתרונות Web Design &amp; Development מותאמים אישית. דברו איתנו עוד היום!
+
+### תודה - Y.L Business Booster
+https://y-l-business-booster-297a479d.zappy5.app/thank-you
+Y.L Business Booster - תודה - Y.L Business Booster
+
+## Legal & Policy
+
+### Privacy Policy
+https://y-l-business-booster-297a479d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://y-l-business-booster-297a479d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://y-l-business-booster-297a479d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://y-l-business-booster-297a479d.zappy5.app
+- Endpoint: https://y-l-business-booster-297a479d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Y.L Business Booster
+Y.L Business Booster is a web design and landing page creation business focused on helping other businesses grow their online presence. The brand name suggests a mission-driven identity centered around boosting and accelerating business success. The company positions itself as a professional digital partner that builds high-converting websites and landing pages for clients.
+
+## Target Audience
+- בעלי עסקים קטנים
+- יזמי סטארטאפ
+- משווקים דיגיטליים
+
+## Industry
+Web Design & Development
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://y-l-business-booster-297a479d.zappy5.app/sitemap.xml
+- Robots: https://y-l-business-booster-297a479d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://y-l-business-booster-297a479d.zappy5.app/llms-full.txt
